@@ -1,0 +1,23 @@
+{
+  "name": "gemini-auto-temp",
+  "displayName": "Gemini Auto Temp",
+  "description": "Auto temporary tab for gemini chats",
+  "homepage": "https://github.com/kjurl/tampermonkey.scripts",
+  "author": {
+    "name": "Kanishk",
+    "url": "https://github.com/kjurl"
+  },
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@repo/vite-config": "workspace:*",
+    "@repo/tsconfig": "workspace:*",
+    "typescript": "~6.0.3",
+    "vite": "^8.0.16"
+  }
+}
