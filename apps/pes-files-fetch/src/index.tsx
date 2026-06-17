@@ -1,5 +1,5 @@
 /* @refresh reload */
-import { monkeyWindow } from "$";
+// import { monkeyWindow } from "$";
 import { render } from "solid-js/web";
 
 import { QueryClient, QueryClientProvider } from "@tanstack/solid-query";
