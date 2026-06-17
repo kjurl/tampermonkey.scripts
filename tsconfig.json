@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./apps/gemini-auto-temp" },
+    { "path": "./apps/pes-files-fetch" },
+    { "path": "./packages/vite-config" }
+  ]
+}
